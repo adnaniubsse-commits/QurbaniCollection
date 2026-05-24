@@ -1,5 +1,3 @@
-Here is the HTML document with the PDF export functions fixed to properly capture and display the data from the income ledger and purchasing tables.
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
